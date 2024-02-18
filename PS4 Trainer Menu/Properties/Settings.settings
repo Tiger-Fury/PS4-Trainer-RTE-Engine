@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PS4_Trainer_Menu.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IPAddressText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="elfPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9020</Value>
+    </Setting>
+    <Setting Name="kelfport" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9023</Value>
+    </Setting>
+    <Setting Name="Checkcon" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="portk" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">9020</Value>
+    </Setting>
+    <Setting Name="FWIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PayloadNotify" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Delivered Payload</Value>
+    </Setting>
+    <Setting Name="isitattached" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Game_Selector" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="GameEboot1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GameEboot2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GameEboot3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
